@@ -31,6 +31,6 @@ Welcome to this repository where you can find a list of real exams from universi
 
 ---
 ## Authors
-* [Omar U. Florez](https://www.linkedin.com/in/omar-u-florez/) (LatinX in AI)
 * Christian Ilachoque (UNSA)
+* [Omar U. Florez](https://www.linkedin.com/in/omar-u-florez/) (LatinX in AI)
 
