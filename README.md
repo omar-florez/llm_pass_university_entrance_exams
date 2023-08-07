@@ -15,7 +15,7 @@ Welcome to this repository where you can find a list of real exams from universi
 | Universidad Nacional de San Agustín de Arequipa (UNSA) - Biomédicas | 60 |
 | Universidad Nacional de Ingeniería (UNI) - Matemáticas | 40 |
 | Universidad Nacional de Ingeniería (UNI) - Física y Química | 40 |
-| Universidad Nacional de Ingeniería (UNI) - Aptitud Académica | 40 |
+| Universidad Nacional de Ingeniería (UNI) - Aptitud Académica Y Humanidades | 100 |
 
 
 ---
